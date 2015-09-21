@@ -8,10 +8,10 @@
     <owners>$author$</owners>
     <description>$description$</description>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <licenseUrl>https://github.com/ReactiveServices/ReactiveServices.MessageBus/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/ReactiveServices/ReactiveServices.Authorization/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/ReactiveServices</projectUrl>
     <summary>
-      Provide messaging capabilities abstraction for Reactive Services applications
+      Provide authorization capabilities for Reactive Services applications
     </summary>
     <tags>reactiveservices microservices actormodel distributed cloud docker</tags>
   </metadata>
