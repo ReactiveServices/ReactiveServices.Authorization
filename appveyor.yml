@@ -5,7 +5,7 @@ cache: ReactiveServices/packages
 before_build:
 - nuget restore ReactiveServices/ReactiveServices.Authorization.sln
 after_build:
-- nuget pack ReactiveServices/ReactiveServices.Authorization.csproj -IncludeReferencedProjects -Properties Configuration=Release -Properties Platform=AnyCPU
+- nuget pack ReactiveServices/Authorization/ReactiveServices.Authorization.csproj -IncludeReferencedProjects -Properties Configuration=Release -Properties Platform=AnyCPU
 build:
   project: ReactiveServices/ReactiveServices.Authorization.sln
   verbosity: minimal
