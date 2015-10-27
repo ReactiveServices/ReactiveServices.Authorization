@@ -59,16 +59,16 @@
       <HintPath>..\..\packages\PostSharp.Patterns.Diagnostics.4.1.28\lib\net40\PostSharp.Patterns.Diagnostics.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="ReactiveServices.Configuration, Version=0.2.5778.23837, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\ReactiveServices.MessageBus.0.3.32\lib\net451\ReactiveServices.Configuration.dll</HintPath>
+    <Reference Include="ReactiveServices.Configuration, Version=0.2.5778.24665, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\ReactiveServices.MessageBus.0.3.34\lib\net451\ReactiveServices.Configuration.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="ReactiveServices.Extensions, Version=0.2.5778.23800, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\ReactiveServices.MessageBus.0.3.32\lib\net451\ReactiveServices.Extensions.dll</HintPath>
+    <Reference Include="ReactiveServices.Extensions, Version=0.2.5778.24630, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\ReactiveServices.MessageBus.0.3.34\lib\net451\ReactiveServices.Extensions.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="ReactiveServices.MessageBus, Version=0.3.32.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\ReactiveServices.MessageBus.0.3.32\lib\net451\ReactiveServices.MessageBus.dll</HintPath>
+    <Reference Include="ReactiveServices.MessageBus, Version=0.3.34.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\ReactiveServices.MessageBus.0.3.34\lib\net451\ReactiveServices.MessageBus.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="SimpleInjector, Version=3.1.0.0, Culture=neutral, PublicKeyToken=984cb50dea722e99, processorArchitecture=MSIL">
